@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"example.fibodt.com/greetings/src/cmd"
+)
 
 func main() {
-	fmt.Println("你好，Go语言")
+	cmd.Execute()
 }
