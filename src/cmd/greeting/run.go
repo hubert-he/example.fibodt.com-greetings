@@ -1,8 +1,8 @@
 package greeting
 
 import (
+	"example.fibodt.com/translate/src"
 	"fmt"
-	"github.com/hubert-he/translate/src"
 	"github.com/spf13/cobra"
 )
 
